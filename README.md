@@ -13,6 +13,8 @@ reduces paperwork, improves accountability, and enhances service delivery.
 User Roles
 
  Citizen
+
+ 
 •	Register and log in securely
 •	Submit service requests
 •	Track request status
@@ -20,6 +22,8 @@ User Roles
 
 
 Officer
+
+
 •	View assigned cases
 •	Review service requests
 •	Verify documents
@@ -28,6 +32,8 @@ Officer
 
 
 Administrator
+
+
 •	Manage users and roles
 •	Manage departments
 •	Monitor system activities
@@ -36,6 +42,8 @@ Administrator
 
  
  Key Features
+
+ 
 •	Role-based authentication and authorization
 •	Online service request submission
 •	Case assignment and tracking
@@ -46,6 +54,8 @@ Administrator
 
 
 Technologies Used
+
+
 •	Programming Language: Java
 •	Frontend: Java Swing
 •	Backend: Java
@@ -54,6 +64,8 @@ Technologies Used
 
 
 Project Objectives
+
+
 •	Improve efficiency in government service delivery
 •	Enhance transparency and accountability
 •	Reduce manual paperwork
@@ -62,6 +74,8 @@ Project Objectives
 
 
 Expected Outcomes
+
+
 The system streamlines public service workflows, reduces processing time, improves communication between stakeholders, and increases citizen trust through transparent and secure digital government services.
  Installation & Setup
 •	Clone the repository
